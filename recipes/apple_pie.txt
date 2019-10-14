@@ -1,5 +1,11 @@
 Apple pie
 
+<<<<<<< HEAD
 apple
 pie
 sugar 1/2
+=======
+pear
+water
+salt
+>>>>>>> lisa
